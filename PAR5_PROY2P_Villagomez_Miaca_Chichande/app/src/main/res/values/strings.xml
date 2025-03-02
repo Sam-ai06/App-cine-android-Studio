@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PAR5_PROY2P_Villagomez_Miaca_Chichande</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="premieres">Próximos estrenos</string>
+    <string name="user">Usuario:</string>
+    <string name="password">Contraseña:</string>
+    <string name="order">Ordenar por Nombre</string>
+    <string name="leave">Salir</string>
+    <string name="movie">Películas</string>
+    <string name="funcion">Elija la función</string>
+    <string name="date">Fecha:</string>
+    <string name="timeTable">Horarios:</string>
+    <string name="entries">Entradas:</string>
+    <string name="next">Continuar</string>
+    <string name="cancel">Cancelar</string>
+    <string-array name="Spiner">
+        <item>Opcion 1</item>
+    </string-array>
+    <string name="detailsFuncion">Detalles de Función</string>
+    <string name="detailsPayment">Detalles de pago</string>
+    <string name="name">Nombre</string>
+    <string name="cardNumber">Número de tarjeta</string>
+    <string name="cvv">CVV</string>
+    <string name="cardType1">Mastercard</string>
+    <string name="cardType2">Visa</string>
+    <string name="conditions_terms">Acepto los términos y condiciones.</string>
+    <string name="payment">Pagar</string>
+</resources>
